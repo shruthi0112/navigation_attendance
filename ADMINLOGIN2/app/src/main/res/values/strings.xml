@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ADMIN LOGIN</string>
+    <string name="title_activity_admin">Sign in</string>
+    <string name="hintid">Enter Login ID</string>
+    <string name="hintpwd">Enter Password</string>
+    <string name="hintname">Enter your name</string>
+    <string name="hintemail">Enter your Email ID</string>
+    <string name="hintbranch">Enter Branch</string>
+    <string name="hintpass">Enter Password</string>
+    <string name="hintconfirm">Confirm Password</string>
+    <string-array name="year">
+
+        <item>SECOND YEAR</item>
+        <item>THIRD YEAR</item>
+        <item>FINAL YEAR</item>
+    </string-array>
+
+    <string-array name="div">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+
+    </string-array>
+
+    <string-array name="sem">
+        <item>FIRST SEMESTER</item>
+        <item>SECOND SEMESTER</item>
+
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
